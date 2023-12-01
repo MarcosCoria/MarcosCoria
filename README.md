@@ -5,7 +5,7 @@
 
 - 👨‍💻 Mis repositorios están en: [https://github.com/MarcosCoria](https://github.com/MarcosCoria)
 
-- 💬 Pregúntame sobre: **Java, Javascript, HTML, CSS, ReactJS, MySQL**
+- 💬 Pregúntame sobre: **Java, Javascript, HTML, CSS, ReactJS, SQL**
 
 - 📫 E-Mail: **marcoscoria1993@gmail.com**
 
